@@ -1,0 +1,8 @@
+duckdb
+numpy
+pandas
+python-dotenv
+requests
+scikit-learn
+kaggle
+kagglehub
